@@ -10,6 +10,17 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require jquery
+//= require jquery_ujs
 //= require rails-ujs
+//= require phaser.min.js
+//= require phaser.min.js
+//= require phaser-input.min.js
 //= require turbolinks
-//= require_tree .
+//= require paloma
+//= require boot
+//= require mainscreen
+//= require preload
+//= require gamescreen
+//= require gamewon
+//= require gamelost
